@@ -1,6 +1,4 @@
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzws&hide_border=true&show_icons=true" />
-</div>
+![github stats](https://github-readme-stats.vercel.app/api?username=nzws&hide_border=true&show_icons=true)
 
 ### Hi there 👋
 
