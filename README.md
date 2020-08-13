@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=nzws&hide_border=true&show_icons=true)
+![github stats](https://github-readme-stats.nzws.vercel.app/api?username=nzws&hide_border=true&show_icons=true)
 
 ### Hi there 👋
 
