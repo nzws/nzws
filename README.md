@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
-  - ActivityPub: @nzws@don.nzws.me
+  - ActivityPub: @nzws<span>@</span>don.nzws.me
   - Discord: nzws#0001
   - E-mail: dev/at/nzws.me
 
