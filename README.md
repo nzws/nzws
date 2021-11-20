@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-Hi, I'm a ~~high school~~ college student learning programming from Japan🗾. Recently, I'm using [Deno](https://deno.land), [Node.js](https://nodejs.org) and [React](https://reactjs.org) in [TypeScript](https://typescriptlang.org).
+Hi, I'm a ~~high school~~ college student learning programming from Japan🗾. Recently, I'm using [Deno](https://deno.land), [Node.js](https://nodejs.org) and [React](https://reactjs.org) in [TypeScript](https://www.typescriptlang.org).
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
