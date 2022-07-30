@@ -7,5 +7,5 @@ Recently, I am also interested in embedded systems and studying at university.
 
 #### 📫 How to reach me:
 
-- ActivityPub: @nzws<span>@</span>don.nzws.me *(not E-mail)*
+- ActivityPub: @nzws<span>@</span>don.nzws.me <small>*(not E-mail, well known as Mastodon etc)*</small>
 - E-mail: yuzu at nzws.me
