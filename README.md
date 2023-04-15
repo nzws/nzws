@@ -8,5 +8,5 @@ Recently, I am also interested in IoT systems such as smart homes and sensing an
 #### 📫 How to reach me:
 
 - ActivityPub: @nzws<span>@</span>don.nzws.me *(not E-mail, well known as Mastodon etc)*
-- E-mail: yuzu at nzws.me
+- E-mail: `['hello', 'yuzu.sh'].join('@')`
   - Please email me if you have any questions about my projects (but I am busy and may not be able to reply), do not send any promotion emails.
