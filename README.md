@@ -2,7 +2,7 @@
 
 <div align="right">
   <samp>
-      Shot in Saariselkä, Finland 🇫🇮
+      Fujifilm X-T30 III · Samyang 12mm F2 / Shot in Saariselkä, Finland 🇫🇮
   </samp>
 </div>
 
@@ -12,6 +12,6 @@
 
 <div align="right">
   <samp>
-      Shot in Okinawa, Japan 🌺
+      Xiaomi 13T Pro / Shot in Okinawa, Japan 🌺
   </samp>
 </div>
